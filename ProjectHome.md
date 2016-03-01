@@ -1,0 +1,1 @@
+Source code and example projects for Practical Rails Plugins (Apress, 2008)
